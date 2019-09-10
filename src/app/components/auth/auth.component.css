@@ -1,0 +1,25 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.mycontainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    margin-top: 12px;
+    width: 100%;
+}
+
+.logo {
+    font-family: 'Manjari', sans-serif;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.textbox {
+    text-align: center;
+}
